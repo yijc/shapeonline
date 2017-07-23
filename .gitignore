@@ -1,0 +1,17 @@
+# Lines starting with '#' are comments.
+
+# Ignore files called ''
+
+# Comments cannot be on the same line as rules!
+
+# Ignoring files with full path
+#
+
+# Ignoring directories
+#
+build/
+node_modules/
+
+# Ignoring files by extension
+# All files with these extentions will be ignored in this directory and all its sub-directories.
+'
